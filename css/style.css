@@ -1,0 +1,46 @@
+.hero {
+  min-height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bsas.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 0%;
+  padding: 0%;
+}
+
+.hero-content {
+  margin: 0%;
+  position: relative;
+  top: 130px;
+  right: 100px;
+  bottom: 100px;
+}
+
+u.dotted {
+  border-bottom: 1px dashed #999;
+  text-decoration: none;
+}
+
+.btn-limon {
+  background-color: #96c93e;
+  color: aliceblue;
+}
+
+footer {
+  background-color: #1f5271;
+  min-height: max-content;
+}
+
+.list-group {
+  border-radius: 0%;
+  max-width: 80vw;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-group-item {
+  background-color: #1f5271;
+  color: aliceblue;
+  text-align: center;
+}
